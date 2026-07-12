@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.keras
+*.h5
+main/optimizer/*.json
+main/result/*.json
+main/error/*.json
+main/accuracy/*.json
